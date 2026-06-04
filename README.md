@@ -16,3 +16,4 @@ progress.h        → progress tracking
 
 global.h          → shared state
 
+сonverter.h -> convertation
