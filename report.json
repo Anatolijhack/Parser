@@ -1,0 +1,1982 @@
+{
+  "files": [
+,
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\.ses",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\06d8bbed-c212-4c47-a6ed-d44721b94a7f.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\0fe7a39f-1bf0-4d55-ae38-1dacd16a70af.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\1024b493-c37f-4a37-9fdf-e229bdc2803d.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\156cea24-730d-460c-bf73-0b9c4b70fbb5.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\3087.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\3f976228-c34c-4f86-91c0-59d8661d68d4.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\4c5b176a-dbdc-435d-aeb2-4a261a2c93d5.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\70BE.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\733dbdd1-f129-455b-9f51-466c3328fad7.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\b8ee1c10-4b42-43ac-b064-d6bdd3013f0c.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\c84134be-3aa9-4eb8-a935-3b94b1c66ad0.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\ccfdefc6-6b6b-4c30-ace3-f79012106351.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\dd_BackgroundDownload_20260426131706_result_Success.log",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\dd_BackgroundDownload_20260426131706.log",
+      "lines": 27,
+      "words": 183,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\edg1CA1.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\edg31AF.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\F26B.tmp",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\fontconfig\\cache\\CACHEDIR.TAG",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\fontconfig\\cache\\d37c5b357b40378efbccc09f5278b069-le64.cache-4",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\fontconfig\\cache\\ef9c9ad8cc5857eb63cb3660bc8bd202-le64.cache-4",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\mat-debug-10900.log",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\mat-debug-15224.log",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\mat-debug-9584.log",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\2D637385-AadAccountProviderService-19340-zgkbqsx3-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\2D637385-AadAccountProviderService-19340-zk041g50-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\819F441E-AadAccountProviderService-5312-22ysfs0s-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\819F441E-AadAccountProviderService-5312-3yzpzrzi-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\8289FADE-AadAccountProviderService-16076-mlxcm2ln-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\8289FADE-AadAccountProviderService-16076-njnwe4wx-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\BAFA7E9D-AadAccountProviderService-18468-xmz5q0bj-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\BAFA7E9D-AadAccountProviderService-18468-aqazkt2g-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\D4498A96-AadAccountProviderService-15812-vog1gpha-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\D5E50535-AadAccountProviderService-6620-bgyilwoy-1.log",
+      "lines": 10,
+      "words": 124,
+      "keyword_matches": 4
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\D4498A96-AadAccountProviderService-15812-q1hhwk3u-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\servicehub\\logs\\D5E50535-AadAccountProviderService-6620-lejn0fbx-1.log",
+      "lines": 20,
+      "words": 248,
+      "keyword_matches": 8
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_101740_VS.log",
+      "lines": 47,
+      "words": 389,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_101939_VS.log",
+      "lines": 47,
+      "words": 389,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_111250_VS.log",
+      "lines": 47,
+      "words": 389,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_112244_VS.log",
+      "lines": 47,
+      "words": 389,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_112325_VS.log",
+      "lines": 69,
+      "words": 570,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Editor.RemoteDocumentTypes.VZOV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Editor.TextView.OJJH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSFeedbackIntelliCodeLogs\\20260426_114331_VS.log",
+      "lines": 47,
+      "words": 389,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.GitProvider.GitRepositoryManager.1.3.BrokeredClient.IHVW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.GitProvider.GitRepositoryManager.1.3.BrokeredService.OJGN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.Conex.Trust.GGUG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.Developer.IdentityService.UDJG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.PFYQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.URZH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.WVVJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.AFDK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.VNDO.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.YKTG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.VOPR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.EAXW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.OYZP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.NHDA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.ALXE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.UNZN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.ZEXL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.DXDK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.MXGT.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.HLOG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.WOFA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Services.LogHubReaperService.TYGE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.RSDV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.SNIA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.QRPP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.RZWR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.DVNE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.HCLS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.IDFA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.HOEC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.YOBP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.UKYG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubCommand.Core.HIHO.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.BRXE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.TKNG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS2D637385.Microsoft.VisualStudio.TraceHubRegistrationService.Core.GLLF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Editor.RemoteDocumentTypes.ZJTY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Editor.TextView.OQPQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.GitProvider.GitRepositoryManager.1.3.BrokeredClient.TXDN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.GitProvider.GitRepositoryManager.1.3.BrokeredService.DGWY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.Conex.Trust.FOCK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.Developer.IdentityService.UGJE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.NTTO.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.BVTC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.BSHY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.TJHW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.MLAN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.NYBG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.SZNT.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.BKBF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.CNFL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.TUIN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.XOMF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.EZFE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.DFTZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.FPGG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.DPBN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.WQHE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.QAWL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Services.LogHubReaperService.HNAN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.WQDX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.JCGY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.PFUL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.LJQR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.WMPS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.QQOA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.BXTC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.KLDJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.LVHP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.TJPG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubCommand.Core.RPCU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.DDOB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.OUHW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS819F441E.Microsoft.VisualStudio.TraceHubRegistrationService.Core.ATIF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Editor.RemoteDocumentTypes.XLWA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Editor.TextView.ZORL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.GitProvider.GitRepositoryManager.1.3.BrokeredClient.BCOI.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.GitProvider.GitRepositoryManager.1.3.BrokeredService.QYDL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.Conex.Trust.KLRK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.Developer.IdentityService.JCBJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.FCTE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.QGUD.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.DTUX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.RYJS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.GFAC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.WKKE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.UNYJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.MSSD.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.YBTX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.KIHK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.EGGL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.VEIH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.PLXZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.RXKX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.FSXR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.PFVA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.KTHU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Services.LogHubReaperService.BJBB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.LDHQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.KDSU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.QWTA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.SGGX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.EDXF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.GSIM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.EJNZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.XIMH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.FWGA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.GHWC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubCommand.Core.ZKMF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.QKDM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.ZPYE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VS8289FADE.Microsoft.VisualStudio.TraceHubRegistrationService.Core.FCXT.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Editor.RemoteDocumentTypes.XOUX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Editor.TextView.DMRS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.GitProvider.GitRepositoryManager.1.3.BrokeredClient.WKNU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.GitProvider.GitRepositoryManager.1.3.BrokeredService.TYRR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.Conex.Trust.PUPB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.Developer.IdentityService.VEIU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.WIHJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.ZZYY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.LFFG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.LVOP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.KVUE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.SQPR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.UKNQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.LOCN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.KFYE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.VHRU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.LOFW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.KDED.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.AYUH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.RZZU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.XJJU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.CPJG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.DSVG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Services.LogHubReaperService.CUKS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.SSEV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.KNPR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.PAWE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.FUSX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.MIJU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.GOYI.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.ZNHW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.ADOZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.CSXE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.DTNC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubCommand.Core.IEER.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.AQBF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.ZVDI.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSBAFA7E9D.Microsoft.VisualStudio.TraceHubRegistrationService.Core.MCNK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Editor.RemoteDocumentTypes.WCRQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Editor.TextView.OIBC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.GitProvider.GitRepositoryManager.1.3.BrokeredClient.TTHK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.GitProvider.GitRepositoryManager.1.3.BrokeredService.FQRP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.Conex.Trust.HMTP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.Developer.IdentityService.EEPV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.GYTA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.UMGY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.NAKJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.ADFR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.HDIM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.GTVU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.SDUC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.GHKE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.DWKM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.WOZG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.XWWF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.OUNB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.DBWH.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.AEQB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.LORF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.KEOX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.PGGE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Services.LogHubReaperService.EIAO.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.ELGX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.QDXF.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.NGZR.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.EUIL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.KNNP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.PUAX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.NKXC.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.MQZO.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.RIZB.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.XDSV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubCommand.Core.NPSU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.PSNI.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.PULP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD4498A96.Microsoft.VisualStudio.TraceHubRegistrationService.Core.SYPV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Editor.RemoteDocumentTypes.LCKV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Editor.TextView.MYFK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.GitProvider.GitRepositoryManager.1.3.BrokeredClient.GTCJ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.GitProvider.GitRepositoryManager.1.3.BrokeredService.FBMT.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.Conex.Trust.CYBA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.Developer.IdentityService.VUIS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.VXIU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.Internal.VisualStudio.Extensibility.Framework.MetadataServicesFactory.RDZZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredClient.MBRW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.ServiceHub.Framework.AuthorizationService.BrokeredService.GXMU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Commands.Client.Services.RemotableCommandService.CKIA.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredClient.HTPU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.ContextRuleMonitorService.0.1.BrokeredService.WCMW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredClient.CBIZ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Extensibility.ExtensionMetadataService.0.3.BrokeredService.NLQS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredClient.KZDS.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Extensibility.ExtensionResourceDictionaryService.0.1.BrokeredService.CNUL.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.FileSystem.1.4.BrokeredClient.YAOU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.FileSystem.1.4.BrokeredService.ZLJQ.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.PUDV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Platform.WindowManagement.RemoteWindowManager.YNPV.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.RpcContracts.Extensibility.IExtensionMetadataService.IGJX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.RpcContracts.IStringResourceDictionary.SRIU.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Services.LogHubReaperService.QHYM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredClient.BWSY.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.DiagnosticViewerService.1.0.BrokeredService.KXYD.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredClient.CLOG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.OutputChannelStore.0.1.BrokeredService.UZSW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredClient.SPVM.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.Shell.SettingsManager.1.0.BrokeredService.HGYK.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TaskStatusCenter.BrokeredClient.COTN.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TaskStatusCenter.BrokeredService.DOEW.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredClient.LJYD.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubCommand.1.0.BrokeredService.QRHE.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubCommand.Core.GEDG.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredClient.ZTHP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubRegistrationService.1.0.BrokeredService.XTAX.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSLogs\\VSD5E50535.Microsoft.VisualStudio.TraceHubRegistrationService.Core.KMHP.svclog",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\7da0338ed2d74b6d9ce719c2d315cf731816\\7da0338ed2d74b6d9ce719c2d315cf731816.edb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\7da0338ed2d74b6d9ce719c2d315cf731816\\7da0338ed2d74b6d9ce719c2d315cf731816.jfm",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\7da0338ed2d74b6d9ce719c2d315cf731816\\tmp.edb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.internal.visualstudio.interop.ni.pdb\\f7a6af8c5a80f5a3e84cb02adfedbd691\\Microsoft.Internal.VisualStudio.Interop.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.commonide.ni.pdb\\5657b907439906de3c1f1c916dd0f7a61\\Microsoft.VisualStudio.CommonIDE.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.componentmodelhost.implementation.ni.pdb\\ad6b465c65a4c77195e60cca6b48dc561\\Microsoft.VisualStudio.ComponentModelHost.Implementation.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.composition.ni.pdb\\518c574d5ae3fda97ba6bb520dfa623c1\\Microsoft.VisualStudio.Composition.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.coreutility.ni.pdb\\85cca7e660e0bc888d3fbeeae06c7b5f1\\Microsoft.VisualStudio.CoreUtility.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.editor.implementation.ni.pdb\\02832b100cdfe7255e466dfc5904db8c1\\Microsoft.VisualStudio.Editor.Implementation.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.extensibilityhosting.ni.pdb\\638971a93a887dbef851352b2beda0ba1\\Microsoft.VisualStudio.ExtensibilityHosting.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.graphproviderpackage.ni.pdb\\e0a4a5bd265d9363a18f26ff18cc5a121\\Microsoft.VisualStudio.GraphProviderPackage.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.intellicode.ni.pdb\\7f90d913b1e712be6d0daf21262bfa781\\Microsoft.VisualStudio.IntelliCode.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.interop.ni.pdb\\b190bcedb9f2bc6c929622577792cb7c1\\Microsoft.VisualStudio.Interop.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.platform.vseditor.ni.pdb\\f24b879ad6c7df06c43a59a6f803fe761\\Microsoft.VisualStudio.Platform.VSEditor.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.platform.windowmanagement.ni.pdb\\010f15f80ccd04fe75e4e097adf8a0ef1\\Microsoft.VisualStudio.Platform.WindowManagement.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.progression.common.ni.pdb\\ad4c0757be8bceb47ee2db09fddcbbef1\\Microsoft.VisualStudio.Progression.Common.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.progression.datamanager.ni.pdb\\5bebde8c8df07a57be443e3f21c10e3d1\\Microsoft.VisualStudio.Progression.DataManager.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.project.visualc.vcprojectengine.ni.pdb\\940b9e3209844054079f607514d22a4a1\\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.projectsystem.implementation.ni.pdb\\79ad066533f9bc4c8c48add26f018edb1\\Microsoft.VisualStudio.ProjectSystem.Implementation.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.projectsystem.ni.pdb\\e48882bd835cb87f792bdc532cc75be31\\Microsoft.VisualStudio.ProjectSystem.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.projectsystem.vs.implementation.ni.pdb\\3ef90a25925294694151faff51694e211\\Microsoft.VisualStudio.ProjectSystem.VS.Implementation.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.15.0.ni.pdb\\11a72d6fa503fc2481b01b1cbd9c6dc61\\Microsoft.VisualStudio.Shell.15.0.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.framework.ni.pdb\\482af80dbf3b0c280eb707895f9a1e941\\Microsoft.VisualStudio.Shell.Framework.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.treenavigation.graphprovider.ni.pdb\\a17b4b760ef6888643bbb4c344ffd7531\\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.treenavigation.hierarchyprovider.ni.pdb\\10bd80f19cd3e64350e39a62c00ae0901\\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.ui.internal.ni.pdb\\bf3e33cce135c3428275698d39640ee01\\Microsoft.VisualStudio.Shell.UI.Internal.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.shell.viewmanager.ni.pdb\\aba944338ee13368af193c5948eaf3db1\\Microsoft.VisualStudio.Shell.ViewManager.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.threading.ni.pdb\\c125693832667f92ff87aa09edc2fdbb1\\Microsoft.VisualStudio.Threading.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.utilities.ni.pdb\\b38f78ed1060ecab987e9db50bfd03ee1\\Microsoft.VisualStudio.Utilities.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\microsoft.visualstudio.vc.ni.pdb\\d8eaa717be36a7a92924d5afe4daf7e91\\Microsoft.VisualStudio.VC.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\mscorlib.ni.pdb\\50abde036072b0b49b01ecf91d35cf891\\mscorlib.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\presentationcore.ni.pdb\\9489013739ed9517c8dc7df4c820c3a61\\PresentationCore.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\presentationframework.ni.pdb\\93e27690b73edf920e387a30ace8b09c1\\PresentationFramework.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\system.componentmodel.composition.ni.pdb\\adf820daeb5c0ca068f49b6846fe95bf1\\System.ComponentModel.Composition.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\system.core.ni.pdb\\080d59eb80319b10a486ecb5e2f645d61\\System.Core.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\system.ni.pdb\\bab1c747a49a8b036c463f419b08ae9a1\\System.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\system.text.json.ni.pdb\\8c6823aec79669353b8696684e8bec6d1\\System.Text.Json.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\VSTelem\\NgenPdb\\windowsbase.ni.pdb\\337ab6462f749234a32a287e99f1eed61\\WindowsBase.ni.pdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326castdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326castex",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326castgl",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326castin",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326castsy",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326cdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326cex",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326cgl",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326cin",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_0fa4326csy",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7astdb",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7astex",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7astgl",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7astin",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7astsy",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7db",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7ex",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7gl",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7in",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    },
+    {
+      "file": "C:\\Users\\Kirill\\AppData\\Local\\Temp\\_CL_437f6cf7sy",
+      "lines": 0,
+      "words": 0,
+      "keyword_matches": 0
+    }
+  ],
+  "summary": {
+    "total_levels": 8,
+    "total_errors": 72,
+    "unique_errors": 2
+  },
+  "top_errors": [
+    {"error": "(зима) : Error : No session token entry found.", "count": 36},
+    {"error": "(зима) : Error : Problem getting session token from the server. 'Microsoft.Developer.IdentityService.AccountProvider.NoMatchingAccountException: No matching accounts found in any MSAL cache.", "count": 36}
+  ]
+}

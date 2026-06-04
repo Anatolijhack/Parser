@@ -1,0 +1,4 @@
+Type,Error,Count
+Top,"(зима) : Error : No session token entry found.",36
+Top,"(зима) : Error : Problem getting session token from the server. 'Microsoft.Developer.IdentityService.AccountProvider.NoMatchingAccountException: No matching accounts found in any MSAL cache.",36
+Summary,Unique Errors,2
