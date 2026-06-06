@@ -1,19 +1,79 @@
-args.h            → CLI / program options
+⚡ GodParseFiles
 
-Config.h          → configuration loader
+🚀 Высокопроизводительный CLI-инструмент для анализа логов с поддержкой многопоточности, фильтрации и логирования.
 
-file\_processor.h  → file analysis logic
+📌 Описание
 
-ThreadPool.h      → multithreading engine
+GodParseFiles — это консольное приложение на C++, предназначенное для быстрого анализа лог-файлов.
 
-csv\_utils.h       → CSV writer
+Поддерживает гибкую настройку через аргументы командной строки, что делает его удобным инструментом для работы с большими объёмами данных.
 
-json\_utils.h      → JSON writer
+🔥 Возможности
+📂 Обработка папок с логами
+🧵 Многопоточность (ThreadPool)
+🔍 Фильтрация по ключевым словам
+⏱️ Фильтрация по времени (--from / --to)
+📊 Генерация отчётов
+🧾 Поддержка форматов: TXT / CSV / JSON
+📝 Логирование выполнения
+⚙️ CLI интерфейс с аргументами
+🧠 CLI аргументы
 
-report.h          → report generation
+Программа запускается через командную строку:
 
-progress.h        → progress tracking
+parser.exe <path> [options]
+Доступные опции:
+Аргумент	Описание
+--keyword <word>	Фильтр по ключевому слову (по умолчанию: ERROR)
+--from <HH:MM:SS>	Начальное время
+--to <HH:MM:SS>	Конечное время
+--output <name>	Имя выходного файла
+--format <type>	Формат: txt / csv / json
+--to-json	Дополнительный экспорт в JSON
+--help	Показать справку
+🚀 Примеры использования
+# Базовый запуск
+parser.exe logs/
 
-global.h          → shared state
+# Фильтр по ключевому слову
+parser.exe logs/ --keyword FAIL
 
-сonverter.h -> convertation
+# Фильтр по времени
+parser.exe logs/ --from 10:00:00 --to 18:00:00
+
+# Экспорт в JSON
+parser.exe logs/ --format json
+
+# Полный пример
+parser.exe logs/ --keyword ERROR --from 09:00:00 --to 18:00:00 --format csv
+🛠️ Архитектура
+args.h → парсинг CLI аргументов
+file_processor.h → обработка файлов
+ThreadPool.h → многопоточность
+report.h → генерация отчётов
+json_utils.h / csv_utils.h → экспорт
+progress.h → отображение прогресса
+logging → логирование
+сonverter.h -> конвертация форматов
+📊 Выходные данные
+
+После выполнения создаются:
+
+report.txt → основной отчёт
+report.csv → таблица (если выбран CSV)
+report.json → JSON формат
+logs.txt → лог выполнения
+🎯 Особенности
+⚡ Быстрая обработка больших логов
+🧵 Параллельное выполнение
+🧩 Гибкая CLI-настройка
+🛡️ Валидация аргументов (проверка форматов)
+📝 Подробное логирование
+📈 Планы
+Добавить поддержку regex
+Улучшить CLI (короткие флаги)
+Цветной вывод в консоли
+GUI версия
+👤 Автор
+AnatolijHAck Так же примеры репортов  репозитории
+
