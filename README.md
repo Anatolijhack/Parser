@@ -1,90 +1,112 @@
-⚡ GodParseFiles
+# ⚙️ Multithreaded File Processing CLI Tool
 
-🚀 Высокопроизводительный CLI-инструмент для анализа логов с поддержкой многопоточности, фильтрации и логирования.
+High-performance C++ CLI application for processing large datasets (CSV / JSON) with parallel execution and modular pipeline architecture.
 
-📌 Описание
+---
 
-GodParseFiles — это консольное приложение на C++, предназначенное для быстрого анализа лог-файлов.
+## 🚀 Features
 
-Поддерживает гибкую настройку через аргументы командной строки, что делает его удобным инструментом для работы с большими объёмами данных.
-#Cхема работы
-ThreadPool
-↓
-File Processor
-↓
-Filter System
-↓
-Report Generator
+* ⚡ Multithreaded processing using custom ThreadPool
+* 📂 Support for CSV and JSON file formats
+* 🧩 Modular processing pipeline (extensible stages)
+* 📊 Report generation system
+* 📈 Progress tracking
+* 🖥️ CLI interface with argument parsing
+* 🧵 Safe concurrency using mutex and condition variables
 
-🔥 Возможности
-📂 Обработка папок с логами
-🧵 Многопоточность (ThreadPool)
-🔍 Фильтрация по ключевым словам
-⏱️ Фильтрация по времени (--from / --to)
-📊 Генерация отчётов
-🧾 Поддержка форматов: TXT / CSV / JSON
-📝 Логирование выполнения
-⚙️ CLI интерфейс с аргументами
-🧠 CLI аргументы
+---
 
-Программа запускается через командную строку:
+## 🏗️ Architecture
 
-parser.exe <path> [options]
-Доступные опции:
-Аргумент	Описание
---keyword <word>	Фильтр по ключевому слову (по умолчанию: ERROR)
---from <HH:MM:SS>	Начальное время
---to <HH:MM:SS>	Конечное время
---output <name>	Имя выходного файла
---format <type>	Формат: txt / csv / json
---to-json	Дополнительный экспорт в JSON
---help	Показать справку
-🚀 Примеры использования
-# Базовый запуск
-parser.exe logs/
+The project is designed with a modular and scalable architecture:
 
-# Фильтр по ключевому слову
-parser.exe logs/ --keyword FAIL
+* **ThreadPool** — manages worker threads and task scheduling
+* **Processing Pipeline** — stages for transforming data
+* **Parser Layer** — handles CSV / JSON input
+* **Core Engine** — coordinates execution flow
+* **CLI Layer** — handles user input and configuration
+* **Report Module** — generates structured output
 
-# Фильтр по времени
-parser.exe logs/ --from 10:00:00 --to 18:00:00
+---
 
-# Экспорт в JSON
-parser.exe logs/ --format json
+## 🔧 Technologies
 
-# Полный пример
-parser.exe logs/ --keyword ERROR --from 09:00:00 --to 18:00:00 --format csv
-🛠️ Архитектура
-args.h → парсинг CLI аргументов
-file_processor.h → обработка файлов
-ThreadPool.h → многопоточность
-report.h → генерация отчётов
-json_utils.h / csv_utils.h → экспорт
-progress.h → отображение прогресса
-logging → логирование
-сonverter.h -> конвертация форматов
-📊 Выходные данные
+* C++ (C++11+)
+* STL (threading, containers, algorithms)
+* Multithreading:
 
-После выполнения создаются:
+  * `std::thread`
+  * `std::mutex`
+  * `std::condition_variable`
+* JSON: nlohmann/json
+* File I/O
 
-report.txt → основной отчёт
-report.csv → таблица (если выбран CSV)
-report.json → JSON формат
-logs.txt → лог выполнения
+---
 
-#Цель 
-Designed to process large log files efficiently using parallel execution
-🎯 Особенности
-⚡ Быстрая обработка больших логов
-🧵 Параллельное выполнение
-🧩 Гибкая CLI-настройка
-🛡️ Валидация аргументов (проверка форматов)
-📝 Подробное логирование
-📈 Планы
-Добавить поддержку regex
-Улучшить CLI (короткие флаги)
-Цветной вывод в консоли
-GUI версия
-👤 Автор
-AnatolijHAck Так же примеры репортов  репозитории
+## ▶️ Usage
 
+### Build
+
+```bash
+g++ -std=c++11 -pthread main.cpp -o processor
+```
+
+### Run
+
+```bash
+./processor --input data.csv --output report.txt
+```
+
+---
+
+## 📊 Example Workflow
+
+1. Load input file (CSV / JSON)
+2. Split data into tasks
+3. Process tasks in parallel using ThreadPool
+4. Aggregate results
+5. Generate report
+
+---
+
+## 🧠 Key Concepts Implemented
+
+* Custom task scheduling
+* Priority-based execution
+* Pipeline-style data processing
+* Exception handling in async tasks
+* Resource management and cleanup
+* Basic fault tolerance
+
+---
+
+## 📌 Future Improvements
+
+* Add unit tests
+* Improve error handling and logging
+* Support more file formats
+* Add configuration file support
+* Optimize memory usage
+* Benchmarking and performance metrics
+
+---
+
+## 👨‍💻 Author
+
+Anatolii K.
+Junior C++ Developer (Systems / Backend)
+
+GitHub:
+https://github.com/Anatolijhack
+
+---
+
+## 💡 Notes
+
+This project was built as a learning and portfolio project to explore:
+
+* multithreading
+* systems programming
+* data processing pipelines
+
+The focus is on clean architecture, performance, and extensibility.
